@@ -1,6 +1,6 @@
 token=NTA3NTI5NDkwMjM1MjYwOTQx.DsYNtA.OsB5tab11zW9aDPc3OYBsLPefVo
 owner=473605977870958612
-prefix=Nu
+prefix=Ri
 game=
 stayinchannel=true
 songinstatus=false
